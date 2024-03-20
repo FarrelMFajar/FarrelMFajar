@@ -1,4 +1,5 @@
-# Farrel Mahardhika Fajar - Data Analyst Portofolio
+# Farrel Mahardhika Fajar
+
 ## About
 Greetings! You can call me Farrel! 
 I am an electrical engineering graduate with biomedical engineering master's degree. 
