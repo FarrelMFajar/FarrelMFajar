@@ -2,11 +2,12 @@
 
 ## About
 Greetings! You can call me Farrel! 
-I am an electrical engineering graduate with biomedical engineering master's degree. 
-I am interested in churning through data to uncover possible insights, hence why I'm aspiring myself to become a data analyst.
+I can identify key metrics by analyzing and visualizing the data you gave me into actionable insights, ensuring on-time project delivery, and optimizing budget allocation. 
+Adept at identifying problems and implementing data-driven strategies. 
+With my background in stakeholder engagement during my time in Indonesia-China High Speed Railway project, I can drive collaboration, effective cross-functional communication, and leadership in achieving common goals.
 
-With my three-year experience as a Technical Design management staff at a High Speed Railway company in an Indonesia-China collaboration National Strategic Project, I have trained myself to become familiar with all sorts of data manipulation, be it via Excel, Power BI, and SQL. I believe those skills will be a valuable assets in my future role involving data.
+Proficient in Excel, SQL, Python, and Power BI.
 
-I spend my time looking at publicly-released data and thinking what can I do with it, from cleaning, exploring, to visualizing. I am driven by the thrill of discovering possible new insights and share them to my colleagues and people online.
+I spend my time looking at data and thinking what can I do with it, from cleaning, exploring, to visualizing. Be sure to take a look at my past projects.
 
-You can check my CV ['here'](https://github.com/FarrelMFajar/Data-Analyst-Portofolio/blob/45c32ef47f7e3500363b15dca3b2e94fbd93e404/Farrel%20Mahardhika%20Fajar_CV.pdf)
+You can check my resume ['here'](https://github.com/FarrelMFajar/Data-Analyst-Portofolio/blob/445115165e7a5018c985fe621b2cec6841ce4186/2024%2009%2014%20Data%20Farrel%20Mahardhika%20Fajar%20CV.pdf)
