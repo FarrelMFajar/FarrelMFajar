@@ -2,7 +2,7 @@
 
 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/farrel-fajar)  
 📧 **Email**: [farrel.m.fajar@gmail.com](farrel.m.fajar@gmail.com)  
-💻 **GitHub**: [View Projects](https://github.com/FarrelMFajar)  
+💻 **GitHub**: [View Projects](https://github.com/FarrelMFajar/Projects)  
 
 ---
 
